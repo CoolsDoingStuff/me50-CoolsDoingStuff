@@ -1,0 +1,37 @@
+#links {
+    text-align: right;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 25px;
+}
+
+.advbutton {
+    background-color: blue;
+    color: white;
+}
